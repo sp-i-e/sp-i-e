@@ -2,7 +2,7 @@
 I am Hitesh, an experienced programmer and a very inexperienced human.
 
 ## 💤 What I do
-I am a student studying Computer Engineering in Delhi Technological University. I mainly code in C++ but dweleve into other languages if given the chance. 
+I am a student studying Computer Engineering in Delhi Technological University. I mainly code in C++ but delve into other languages if given the chance. 
 
 I am also a web developer and currently i'm learning React.js.
 
